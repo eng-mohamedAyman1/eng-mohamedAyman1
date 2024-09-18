@@ -1,4 +1,11 @@
 ## Hi there 👋
+<h1> > Hey There!, I'm Mohammed <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+<p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=7d5a50&size=25&lines=Welcome+to+Mohd+GitHub!;I'm+a+Software+Engineering+Student;I'm+Into...;<Web+Development/>;<Programming/>;<UX|UI/>;<Tech/>"/></a>
+</p>
 
 <!--
 **eng-mohamedAyman1/eng-mohamedAyman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
