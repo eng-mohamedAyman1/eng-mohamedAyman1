@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman AbdElzaher</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> A Little About Me...
+I'm a senior **software engineering** student 🎓. I'm a **Tech Enthusiast 💻** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
