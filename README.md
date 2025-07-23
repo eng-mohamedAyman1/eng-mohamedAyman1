@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Ayman AbdElzaher</h1>
 
-<h3 align="center">Flutter Developer | Software Engineering  | Tech Enthusiast </h3>
+<h3 align="center">Flutter Developer | Software Engineering Student | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200" alt="Coding" />
@@ -12,32 +12,29 @@
 
 ### 💡 About Me
 
-🎓 I'm a  **Software Engineering**  passionate about mobile app development using **Flutter** & **Kotlin**.
+🎓 I'm a **Software Engineering** student passionate about mobile app development using **Flutter** & **Kotlin**.
 
 🚀 I enjoy turning ideas into real apps that solve real problems.
 
 🧠 Constant learner, always exploring new technologies, and love collaborating on impactful projects.
 
-📱 Interested in tech, startups, and connecting programming with entrepreneurship.
+📱 I believe programming is more powerful when it's connected to business and real users' needs.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="gradle logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" />
 </div>
 
 ---
@@ -46,16 +43,14 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="29" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" height="28" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="29" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="29" alt="facebook logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="29" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="29" alt="telegram logo" />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="29" alt="whatsapp logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="29" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="29" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="29" alt="hackerrank logo" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" />
 </div>
 
 ---
@@ -69,32 +64,40 @@
 | 🌦️ **Weather App** | Displays current weather based on user input | Flutter, OpenWeather API |
 | 🔢 **Replace Num** | Text processor to clean unnecessary content | Kotlin |
 | 💬 **Chat App** | Real-time group chatting functionality | Flutter, Firebase |
-| 🏠 **Expat Student Assistant** *(In Progress)* | A platform to help students living away from home find housing, services, study spots, and AI tools | Flutter, Firebase, Google Maps API |
+| 🏠 **Expat Student Assistant** *(Coming Soon)* | Helps students living away from home find housing, services, study spots, and AI tools | Flutter, Firebase, Google Maps API |
 
 ---
 
 ### 🎯 My Upcoming Goals
 
 - ✅ Finish my graduation project about Egyptian tourism 🌍  
-- 🎓 Get Flutter & Kotlin official certifications  
-- 📚 Publish technical content on LinkedIn weekly  
-- 🎥 Start a YouTube series about building apps with Flutter  
-- 🤝 Collaborate with other developers on GitHub  
-- 📱 Release my first app on Google Play Store  
-- 🧑‍🏫 Mentor junior developers in Flutter and mobile development  
-- 🚀 Learn advanced UI/UX design with Figma & Framer  
+- 📚 Get certified in Flutter & Kotlin  
+- 🎥 Launch a YouTube mini-series on building real apps  
+- 📱 Publish my first app on the Play Store  
+- 🧑‍🏫 Mentor junior developers  
+- ✍️ Share valuable content weekly on LinkedIn  
+- 🎯 Learn advanced UI/UX with Figma & Framer
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics (Dark/Light Mode Support)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg" alt="GitHub Contribution Graph" />
+</picture>
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-mohamedAyman1&show_icons=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mohamedAyman1&layout=compact&theme=onedark" height="150" />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=eng-mohamedAyman1&show_icons=true&count_private=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mohamedAyman1&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ---
 
 > ✨ Keep learning, keep building, and never stop sharing.  
-> Follow my journey — we're just getting started 💪🔥
+> Your journey is just beginning — stay creative & consistent 💪🔥
