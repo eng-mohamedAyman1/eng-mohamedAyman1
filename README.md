@@ -100,9 +100,19 @@
 
 #### 🌞 Light Mode
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eng-mohamedAyman1.eng-mohamedAyman1&"  />
+<br clear="both">
+
+<div align="right">
+  <img height="200" src="https://i.pinimg.com/1200x/29/dd/db/29dddbb74db0c68adc5358271281e03a.jpg"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg">
+</picture>
 
 #### 🌚 Dark Mode
 
