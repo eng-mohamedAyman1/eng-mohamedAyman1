@@ -88,31 +88,23 @@
 
 ### 📊 GitHub Stats
 
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-mohamedAyman1&show_icons=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mohamedAyman1&layout=compact&theme=onedark" height="150" />
-  <img src="https://streak-stats.demolab.com?user=eng-mohamedAyman1&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=eng-mohamedAyman1&theme=dracula&row=1&column=4" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eng-mohamedAyman1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-mohamedAyman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=eng-mohamedAyman1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=eng-mohamedAyman1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
-
-### 🎮 Contribution Graph
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-<div align="right">
-  <img height="200" src="https://i.pinimg.com/1200x/29/dd/db/29dddbb74db0c68adc5358271281e03a.jpg" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eng-mohamedAyman1.eng-mohamedAyman1" />
-</div>
+###
