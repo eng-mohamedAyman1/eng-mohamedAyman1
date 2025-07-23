@@ -91,22 +91,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eng-mohamedAyman1&show_icons=true&count_private=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mohamedAyman1&layout=compact&theme=onedark" height="150" />
-  <img src="https://streak-stats.demolab.com?user=eng-mohamedAyman1&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=eng-mohamedAyman1&theme=dracula&row=1&column=4" height="150" />
+ 
 </div>
 
 ---
 
-### 🎮 Contribution Graph
+### 📊 My Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg">
-</picture>
+#### 🌞 Light Mode
+
+![Light Mode Graph](https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg)
+
+#### 🌚 Dark Mode
+
+![Dark Mode Graph](https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph-dark.svg)
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eng-mohamedAyman1.eng-mohamedAyman1" />
-</div>
+> ✨ Keep learning, keep building, and never stop sharing.  
+> Follow my journey — we're just getting started 💪🔥
