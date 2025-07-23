@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Ayman AbdElzaher</h1>
 
-<h3 align="center">Flutter Developer | Software Engineering Student | Tech Enthusiast</h3>
+<h3 align="center">Flutter Developer | Software Engineering  | Tech Enthusiast </h3>
 
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200" alt="Coding" />
@@ -12,7 +12,7 @@
 
 ### 💡 About Me
 
-🎓 I'm a senior **Software Engineering** student passionate about mobile app development using **Flutter** & **Kotlin**.
+🎓 I'm a  **Software Engineering**  passionate about mobile app development using **Flutter** & **Kotlin**.
 
 🚀 I enjoy turning ideas into real apps that solve real problems.
 
