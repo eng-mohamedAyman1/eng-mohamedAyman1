@@ -100,7 +100,9 @@
 
 #### 🌞 Light Mode
 
-![Light Mode Graph](https://raw.githubusercontent.com/eng-mohamedAyman1/eng-mohamedAyman1/output/pacman-contribution-graph.svg)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eng-mohamedAyman1.eng-mohamedAyman1&"  />
+</div>
 
 #### 🌚 Dark Mode
 
